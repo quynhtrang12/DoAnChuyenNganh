@@ -1,0 +1,31 @@
+.cartegory-add-content select{
+    outline: none;
+    padding-left: 6px;
+    height: 30px;
+}
+.cartegory-add-content input{
+    outline: none;
+    padding-left: 6px;
+    height: 30px;
+}
+.sanpham-size {
+    display: flex;
+    align-items: center;
+    gap: 20px; 
+}
+
+.sanpham-size p {
+    margin: 0;
+    gap: 40px; 
+}
+.sanpham-size input[type="checkbox"] {
+    width: 20px; 
+    height: 20px; 
+    accent-color: #007bff; 
+    border: 2px solid #007bff; 
+    border-radius: 4px;
+    cursor: pointer; 
+}
+.sanpham-size p{
+    margin-left: 10px;
+}
